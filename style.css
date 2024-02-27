@@ -1,0 +1,27 @@
+table,
+td,
+th
+{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+h1 {
+    background-color: deeppink;
+}
+
+.h3-copyright {
+background-color: aqua;
+}
+
+.ul-1 {
+    list-style-type: none;
+}
+
+.ul-2 {
+    list-style-type: none;
+}
+
+.ul-3 {
+    list-style-type: none;
+}
